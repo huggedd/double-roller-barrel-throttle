@@ -5,7 +5,6 @@ CAD project of a Double-Roller Barrel Throttle designed in Autodesk Fusion 360. 
 This project was created in **Autodesk Fusion 360**.  
 It contains 3D models of parts and a full assembly of a **double-roller barrel throttle** mechanism.  
 
-## Project Structure
 The assembly includes the following components:
 - **Bearing Assembly**  
   - Bearing Assembly Ball  
@@ -19,10 +18,10 @@ The assembly includes the following components:
 - **Over Barrel 2** – second barrel  
 - **Side Plate** – side plate  
 
-## 🛠 Tools Used
+## Tools Used
 - Autodesk Fusion 360  
 
-## 🚀 How to Use
+##  How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/huggedd/double-roller-barrel-throttle.git
